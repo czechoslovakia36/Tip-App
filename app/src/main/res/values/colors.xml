@@ -12,5 +12,9 @@
     <color name="darker_blue">#07256E</color>
     <color name="background_blue">#EFECFB</color>
 
+    <color name="color_worst_tip">#DC1E0B</color>
+    <color name="color_best_tip">#35BA01</color>
+
+
 
 </resources>
